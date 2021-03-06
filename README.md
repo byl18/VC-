@@ -1,5 +1,5 @@
 # VC++课程代码
-Visual C++由Microsoft开发, 它不仅是一个C++编译器，而且是一个基于Windows操作系统的可视化集成开发环境。
+Visual C++由Microsoft开发, 它不仅是一个C++编译器，而且是一个基于Windows操作系统的可视化集成开发环境。  
 本文件收录了自己大二下学期VC++课程的部分代码，包括平时作业，兴趣题和大作业
 ## 平时作业
 + [HW1](https://github.com/byl18/VC-/tree/main/HW1)
