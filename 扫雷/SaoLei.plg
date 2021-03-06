@@ -1,0 +1,63 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: SaoLei - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/SaoLei.res" /d "_DEBUG" /d "_AFXDLL" "E:\程设_郭梦霏_15281206\SaoLei\SaoLei.rc"" 
+Creating temporary file "C:\DOCUME~1\liu\LOCALS~1\Temp\RSP13.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/SaoLei.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\程设_郭梦霏_15281206\SaoLei\GAMESIZE.cpp"
+"E:\程设_郭梦霏_15281206\SaoLei\HIGHSCORE.cpp"
+"E:\程设_郭梦霏_15281206\SaoLei\MainFrm.cpp"
+"E:\程设_郭梦霏_15281206\SaoLei\SaoLei.cpp"
+"E:\程设_郭梦霏_15281206\SaoLei\SaoLeiDoc.cpp"
+"E:\程设_郭梦霏_15281206\SaoLei\SaoLeiView.cpp"
+"E:\程设_郭梦霏_15281206\SaoLei\SETNAME.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\liu\LOCALS~1\Temp\RSP13.tmp" 
+Creating temporary file "C:\DOCUME~1\liu\LOCALS~1\Temp\RSP14.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/SaoLei.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\程设_郭梦霏_15281206\SaoLei\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\liu\LOCALS~1\Temp\RSP14.tmp" 
+Creating temporary file "C:\DOCUME~1\liu\LOCALS~1\Temp\RSP15.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/SaoLei.pdb" /debug /machine:I386 /out:"Debug/SaoLei.exe" /pdbtype:sept 
+".\Debug\GAMESIZE.obj"
+".\Debug\HIGHSCORE.obj"
+".\Debug\MainFrm.obj"
+".\Debug\SaoLei.obj"
+".\Debug\SaoLeiDoc.obj"
+".\Debug\SaoLeiView.obj"
+".\Debug\SETNAME.obj"
+".\Debug\StdAfx.obj"
+".\Debug\SaoLei.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\liu\LOCALS~1\Temp\RSP15.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+GAMESIZE.cpp
+HIGHSCORE.cpp
+MainFrm.cpp
+SaoLei.cpp
+SaoLeiDoc.cpp
+SaoLeiView.cpp
+SETNAME.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+SaoLei.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
